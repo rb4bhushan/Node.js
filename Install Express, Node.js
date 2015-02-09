@@ -1,5 +1,5 @@
 
-1) – Install Node.js
+1) – Install Node.js :
 // visit http://nodejs.org and click the download button.
 // Run the installer. 
 // That's it, you have installed Node.js and NPM – Node Package Manager.
