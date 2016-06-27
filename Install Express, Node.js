@@ -21,14 +21,14 @@
  
 3) - Steps to create an empty Express project:
 
- C:\nodejs> mkdir socketio-test
+ C:\nodejs> mkdir myProject-test
 
- C:\nodejs> cd socketio-test
+ C:\nodejs> cd myProject-test
 
- C:\nodejs\socketio-test> express
+ C:\nodejs\myProject-test> express
 
- C:\nodejs\socketio-test> npm install 
+ C:\nodejs\myProject-test> npm install 
  
-//These commands will create an empty Express project in the directory we just created socketio-test. We then run " C:\nodejs\socketio-test>npm install " to get all the dependencies that are needed to run the app. To test the empty application, run " C:\nodejs\socketio-test>node app " then navigate your browser to http://yourDropletIp-or-domainName:3000. You should get a simple welcome message saying: "Welcome to Express".
+//These commands will create an empty Express project in the directory we just created myProject-test. We then run " C:\nodejs\myProject-test>npm install " to get all the dependencies that are needed to run the app. To test the empty application, run " C:\nodejs\myProject-test>node app " then navigate your browser to http://yourDropletIp-or-domainName:3000. You should get a simple welcome message saying: "Welcome to Express".
 //If you see the welcome message then you have a basic express application ready and running!
 //Ctrl+c - To quit the last node app.This is important. 
