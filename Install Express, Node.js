@@ -2,6 +2,7 @@
 1) - Install Node.js :
 
 // visit http://nodejs.org and click the download button.
+// Download file - node-v0.12.0-x64.msi for windows. 
 // Run the installer. 
 // That's it, you have installed Node.js and NPM – Node Package Manager.
 
